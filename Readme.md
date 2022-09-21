@@ -1,4 +1,4 @@
-# Project-16 Rode Home Page Clone
+# Project-16 Rode Home Page Clone  [go-live](https://project18-rode-clone.netlify.app/)
 This is simple website of home page. In this project I have only used tailwind css. It is responsive as well.
 
 
@@ -14,6 +14,7 @@ This is simple website of home page. In this project I have only used tailwind c
 
  - Learned to make responsive we need alot of testing for all screen. Hence making responsive is same as writing css . Here we used  Tailwind css  in different screen.
  - Also learned concept of flexbox, flexbox ratios grid property.
+ -Learned to used background image and position.
 
  
 
